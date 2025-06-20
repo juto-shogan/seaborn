@@ -1,0 +1,12 @@
+# virtual envs
+.venv
+venv
+.env
+env
+my_env
+my_venv
+
+# IDE folder
+.vscode
+.idea
+.ipynb_checkpoints
